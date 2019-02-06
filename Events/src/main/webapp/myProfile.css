@@ -1,0 +1,43 @@
+.my-image-bg{
+	background-color: white;
+	padding: 8px;
+	width: auto;
+	height: auto;
+	border: 1px solid #DFDFDF;
+	border-radius: 4px;
+	margin-top: 5px;
+}
+
+.my-image{
+	height: auto;
+	width: auto;
+}
+
+.my-images-block{
+	margin-top: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: #DEF8F6;
+	height: auto;
+	display: block;
+	width:auto;
+}
+
+.avatar-block{
+
+}
+
+.avatar{
+
+}
+
+.user-info{
+	vertical-align:top;
+	
+	
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: #F5F4F4;
+}

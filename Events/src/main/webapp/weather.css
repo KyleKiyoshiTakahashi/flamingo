@@ -1,0 +1,49 @@
+
+
+#heading {
+  margin-top: 40px;
+}
+
+#weather-icon {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  color: white;
+  font-size: 200%;
+}
+h1 {
+  color: black;
+  font-size: 400%;
+}
+
+.weather-0, .weather-1, .weather-4, .weather-11 {
+  font-family: 'icomoon'; /* Your name may  be different */
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  /* Add more declaration as needed for font-size, color, etc */
+}
+
+.weather-0:before {
+  content: "\e000";
+}
+.weather-1:before {
+  content: "\e001";
+}
+.weather-3:before {
+  content: "\e003";
+}
+.weather-4:before {
+  content: "\e003";
+}
+.weather-11:before {
+  content: "\e002";
+}

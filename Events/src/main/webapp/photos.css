@@ -1,0 +1,74 @@
+.photo-upload-block{
+	margin-top: 15px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: #F5F4F4;
+}
+
+.all-my-photos{
+	margin-top: 15px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: #E3FAF5;
+
+}
+
+.my-image-bg{
+	background-color: white;
+	padding: 8px;
+	width: auto;
+	height: auto;
+	border: 1px solid #DFDFDF;
+	border-radius: 4px;
+	margin-top: 5px;
+}
+
+.my-image{
+	height: auto;
+	width: auto;
+}
+
+.image-content{
+	background-color: white;
+	padding: 8px;
+	width: auto;
+	border: 1px solid #DFDFDF;
+	border-radius: 4px;
+	margin-top: 5px;
+}
+
+.my-photo-header{
+	text-align: center;
+}
+
+.my-images-block{
+	margin-top: 15px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: #DEF8F6;
+	height: auto;
+	display: block;
+	width:auto;
+}
+
+
+
+.photo-wall{
+	text-align: center;
+}
+
+.all-img{
+	width: 100%;
+}
+
+.photo-user{
+	display:inline-block;
+}
+
+.photo-like{
+	display: inline-block;
+	margin-left: 75%;
+}

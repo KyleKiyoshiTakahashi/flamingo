@@ -1,0 +1,50 @@
+.header{
+	text-align: center;
+	padding: 15px;
+}
+
+.attending-block{
+	background-color: #C6FEF1;
+}
+
+.message-wall{
+	margin-top: 15px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: #F5F4F4;
+}
+
+.PWAA{
+	margin-top: 15px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: #C6FEF1;
+}
+
+
+.weather-block{
+	display: inline-block;
+}
+
+.main-block{
+	display: inline-block;
+}
+
+.message-border{
+	padding: 5px;
+}
+
+.event-info{
+	margin-top: 15px;
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	
+	
+}
+
+
+

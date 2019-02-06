@@ -1,0 +1,69 @@
+.welcome-block{
+	
+	margin-top: 10px;
+	padding: 3px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: black;
+	height: auto;
+	display: block;
+	width:auto;
+
+}
+
+.welcome-header{
+	display:inline-block;
+	
+}
+
+.welcome-avatar{
+	display:inline-block;
+	vertical-align: top;
+}
+
+.user-name{
+	display: inline-block;
+	margin-top: 5px;
+	padding: 5px;
+	color: white;
+}
+.user-avatar{
+	display: inline-block;
+	padding: 5px;
+	vertical-align: top;
+}
+
+
+
+.instate{
+	margin-top: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: white;
+	height: auto;
+	display: block;
+	width:auto;
+}
+
+.outState{
+	margin-top: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: white;
+	height: auto;
+	display: block;
+	width:auto;
+}
+
+.create-event-block{
+	margin-top: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: white;
+	height: auto;
+	display: block;
+	width:auto;
+}
