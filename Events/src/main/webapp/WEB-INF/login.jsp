@@ -20,8 +20,8 @@
 	<!-- Image and text -->
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 	  <a class="navbar-brand" href="/home">
-	    <img src="https://i.imgur.com/NvKioan.png" width="30" height="30" class="d-inline-block align-top" alt="">
-	    Ibis
+	    <img src="https://i.imgur.com/7FRJRxX.png" width="30" height="30" class="d-inline-block align-top" alt="">
+	    Flamingo
 	  </a>
 	   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     	 <div class="navbar-nav">
